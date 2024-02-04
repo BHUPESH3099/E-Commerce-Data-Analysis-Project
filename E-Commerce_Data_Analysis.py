@@ -238,8 +238,5 @@ scat2.update_yaxes(showline=True, linewidth=1, linecolor='black', mirror=True)
 scat2.show()
 
 
-# In[53]:
 
-
-get_ipython().system('jupyter nbconvert --to pdf E-Commerce_Data_Analysis.ipynb --allow-chromium-download')
 
